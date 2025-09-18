@@ -34,3 +34,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+---
+
+## (mini-projects-portfolio)
+
+This is my portfolio site built with Next.js and TailwindCSS showcasing 10 mini-projects:
+- 5 JavaScript projects
+- 5 React/Next.js projects
+
+Each project card links to its respective GitHub repository.
+
+## Live Demo
+
+[View Portfolio](https://your-vercel-url.vercel.app)
+
+## Features
+
+- Responsive grid layout for projects
+- External links to project repos
+- Clean and modern UI using TailwindCSS
+- Navbar with smooth navigation to Home, About, Projects, and Contact
+
+## Getting Started
+
+ Clone the repo:
+bash
+git clone https://github.com/<username>/mini-projects-portfolio.git
