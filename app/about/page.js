@@ -9,8 +9,8 @@ export default function AboutPage() {
         />
         <h1 className="text-3xl font-bold mb-2 text-slate-800">Ayomide Oluyemi</h1>
         <p className="text-gray-600 text-lg">
-          I’m currently a computer science interning as a software engineer 
-          but I'm really passionate about storyteling in various mediums, 
+          I am currently a computer science interning as a software engineer 
+          but I am really passionate about storytelling in various mediums, 
           especially through writing and design. I volunteered in several roles to build this passion to 
           something profitable.
         </p>
