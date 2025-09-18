@@ -1,5 +1,5 @@
 import ProjectCard from "../../components/ProjectCard";
-import { projects } from "../../data/projects"; // adjust path if needed
+import  {projects}  from "../../data/projects"; // adjust path if needed
 
 export default function ProjectsPage() {
   return (

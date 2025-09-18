@@ -5,7 +5,7 @@ export default function AboutPage() {
         <img
           src="/images/Ayomide.jpg"
           alt="Ayomide Oluyemi"
-          className="w-40 h-40 mx-auto rounded-full border-4 border-blue-600 shadow-lg mb-6"
+          className="w-40 h-40 mx-auto rounded-full border-4 border-sage-600 shadow-lg mb-6"
         />
         <h1 className="text-3xl font-bold mb-2 text-slate-800">Ayomide Oluyemi</h1>
         <p className="text-gray-600 text-lg">
